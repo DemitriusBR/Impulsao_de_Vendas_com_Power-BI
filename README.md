@@ -14,30 +14,32 @@ Explique o propósito do projeto e a razão pela qual determinados gráficos for
 
 Contém as bases de dados originais utilizadas no projeto.
 
-- **Base de Compras**: Dados relacionados às compras realizadas.
-- **Base de Clientes**: Dados sobre os clientes da agência de marketing digital.
+- **Base**: A base contém uma variedade de informações, tanto sobre vendas quanto sobre clientes.
+- **Anexo**: Na pasta contem a base de dados em .xlsx caso queira baixar
 
-### Report
+
+### Projeto
 
 Contém os arquivos Power BI (.pbix) com as visualizações e painéis gerenciais.
 
-- **Visão Geral**: Painel que oferece uma visão geral dos principais indicadores de desempenho.
-- **Visão de Campanhas**: Painel focado na análise do desempenho das campanhas de marketing.
+
+- **Capa**: Painel que oferece um dinamismo maior para o Dashboard.
+- **Visão das receitas**: Painel focado na análise do desempenho das vendas.
+- **Visão dos clientes**: Painel que oferece uma visão geral das principais caracteristcas do cliente e suas preferencias .
 
 ### Imagens
 
-Documentação do projeto.
+- **Documentação do projeto**: Explique a função de cada parte da imagem.
+- **Dashboards**: Imagens e capturas de tela do dashboards.
 
-- **Dashboards**: Imagens e capturas de tela dos dashboards.
-- **Ações Realizadas**: Passo a passo e justificativas para as escolhas feitas no dashboard.
+### Ações Realizadas:
+
+Passo a passo e justificativas para as escolhas feitas no dashboard.
 
 ### Insights
 
 Insights obtidos através dos dashboards, fornecendo recomendações estratégicas baseadas na análise dos dados.
 
-### Descrição dos Resultados
-
-Resumo dos resultados obtidos com o painel, destacando as principais descobertas e como elas podem impactar a estratégia da agência.
 
 ## Funcionalidades
 
