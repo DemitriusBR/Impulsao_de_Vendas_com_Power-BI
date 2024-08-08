@@ -1,4 +1,4 @@
-# Alavancagem de vendasdo do E-commerce 
+# Alavancagem de Vendas do E-commerce 
 
 ## Descrição
 
@@ -28,6 +28,8 @@ Contém os arquivos Power BI (.pbix) com as visualizações e painéis gerenciai
 - **Visão dos clientes**: Painel que oferece uma visão geral das principais caracteristcas do cliente e suas preferencias .
 
 ### Imagens
+
+Inclua capturas de tela e diagramas que ilustram a estrutura e o funcionamento do projeto.
 
 - **Documentação do projeto**: Explique a função de cada parte da imagem.
 - **Dashboards**: Imagens e capturas de tela do dashboards.
