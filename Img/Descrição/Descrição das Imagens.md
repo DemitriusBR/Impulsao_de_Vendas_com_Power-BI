@@ -38,5 +38,5 @@ A capa tem o objetivo de servir como a imagem de apresentação do projeto, exib
 ## Painel de controle (Localizado na parte lateral do Dashboard)
   
 - **1. Filtro de Data**
-- **2. Logo da empresa - (Direciona para o site da empres)
-- **3. Contre - (Transição de Abas)
+- **2. Logo da empresa - (Direciona para o site da empres)**
+- **3. Contre - (Transição de Abas)**
