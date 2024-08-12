@@ -1,5 +1,6 @@
 # Alavancagem de Vendas do E-commerce 
 
+
 ## Descrição
 
 Este repositório contém um projeto de criação de um painel gerencial automatizado utilizando Power BI. O objetivo é desenvolver um dashboard que permita a uma agência de marketing digital monitorar e analisar seus principais indicadores de desempenho. O projeto inclui a análise de dados relevantes para otimizar campanhas e estratégias, oferecendo uma visão clara e atualizada dos resultados e oportunidades de crescimento.
