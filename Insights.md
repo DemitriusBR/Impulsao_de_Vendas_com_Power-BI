@@ -1,4 +1,9 @@
+# Foco principal 
+
+Os insights apresentados foram direcionados para atender às necessidades do contexto, que visa 'atingir uma meta ambiciosa neste trimestre e identificar os melhores planos de ação para alcançá-la'. Considerando que se trata de uma empresa no ramo de marketing digital, o foco principal foi na especificação das estratégias de marketing para cada plataforma, gênero e região do consumidor, com o objetivo de melhorar a conversão das vendas.  
+
 # Insights adiquiridos a partir da analise
+
 
 
 ## Introdução
@@ -10,7 +15,6 @@ Neste documento, apresentaremos as conclusões profundas e acionáveis extraída
 Algumas regiões têm preferências muito específicas quanto ao modelo de busca, como é o caso do "Busca Paga", que é preferido por apenas três estados. Investir nesse modelo em outras regiões seria inviável devido à baixa demanda. Portanto, limitar sua implementação às regiões onde há uma demanda significativa tornaria o investimento muito mais eficiente.
 
 ### 
- s
 
 - 
 - 
