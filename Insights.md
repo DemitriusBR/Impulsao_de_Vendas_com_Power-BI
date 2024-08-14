@@ -10,7 +10,7 @@ Neste documento, apresentaremos as conclusões profundas e acionáveis extraída
 Algumas regiões têm preferências muito específicas quanto ao modelo de busca, como é o caso do "Busca Paga", que é preferido por apenas três estados. Investir nesse modelo em outras regiões seria inviável devido à baixa demanda. Portanto, limitar sua implementação às regiões onde há uma demanda significativa tornaria o investimento muito mais eficiente.
 
 ### 
-
+ s
 
 - 
 - 
