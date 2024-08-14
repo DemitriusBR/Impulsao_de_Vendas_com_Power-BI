@@ -17,9 +17,7 @@ Algumas regiões têm preferências muito específicas quanto ao modelo de busca
 ### E-mail Marketing
 
 
-"Neste modelo, também há uma preferência marcante por regiões específicas, como Curitiba e Manaus, onde toda a conversão ocorreu devido a esse marketing direcionado. No entanto, em relação aos gêneros e plataformas, não há uma preferência clara, pois a conversão é bastante equilibrada entre eles.
-
-
+Neste modelo, há uma preferência marcante por regiões específicas, como Curitiba e Manaus, onde a conversão foi fortemente influenciada por este modelo de marketing. A região de Brasília também teve um impacto relevante, embora não tenha sido a escolha unânime. No entanto, em relação aos gêneros e plataformas, não há uma preferência clara, pois a conversão é bastante equilibrada entre eles.
 
 
 ![image](https://github.com/user-attachments/assets/d1a9d946-69b2-4ab5-9113-4575cc390a88)
