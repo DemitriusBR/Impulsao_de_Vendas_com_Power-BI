@@ -22,6 +22,13 @@ Neste modelo, há uma preferência marcante por regiões específicas, como Curi
 
 ![image](https://github.com/user-attachments/assets/d1a9d946-69b2-4ab5-9113-4575cc390a88)
 
+### Buscas Organicas
+
+
+No modelos de busca organica apesar de não ter um que pagar pelo anuncio, tem um retorno estremamente satisfatorio nas regiões de maior vendas como São Paulo e Rio de Janeiro, ela tambem tem uma caractirsitta pela grande maioria deste meio ser do genero Feminio sendo aproximannte 6 vezes mais utilizado 
+
+
+![image](https://github.com/user-attachments/assets/b2eb7e82-08d1-4e9c-a051-5421ef66fab6)
 
 ### Anúncios Pagos
 
